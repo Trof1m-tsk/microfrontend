@@ -6,7 +6,6 @@ const MarketingApp = () => {
 
   useEffect(() => {
     mount(ref.current)
-
   });
 
   return (
