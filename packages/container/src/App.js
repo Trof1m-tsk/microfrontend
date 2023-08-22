@@ -8,7 +8,6 @@ export default () => {
     <BrowserRouter>
       <div>
         <Header />
-        <h1>Micro-frontend Application!!!</h1>
         <MarketingApp />
       </div>
     </BrowserRouter>
